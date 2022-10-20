@@ -1,3 +1,18 @@
+body {
+  font-family: Geneva;
+}
+
+h1 {
+  color: green;
+}
+
+.rainbow-text {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-flex;
+}
+
 img {
   width: 60%;
 }
