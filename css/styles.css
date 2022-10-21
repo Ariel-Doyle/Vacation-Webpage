@@ -2,7 +2,7 @@ body {
   font-family: Geneva;
 }
 
-h1 {
+.green {
   color: green;
 }
 
@@ -15,4 +15,8 @@ h1 {
 
 img {
   width: 60%;
+}
+
+.blue {
+  color: purple;
 }
